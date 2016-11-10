@@ -3,6 +3,9 @@
     "motorola/condor_umtsds": "motorola/condor",
     "motorola/thea": "motorola/thea",
 
+    "oneplus/a0001": "oneplus/bacon",
+    "oneplus/bacon": "oneplus/bacon",
+    
     "xiaomi/aries": "xiaomi/aries",
     "xiaomi/cancro": "xiaomi/cancro"
 }
