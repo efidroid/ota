@@ -17,6 +17,15 @@
     "pantech/ef63s": "pantech/ef63",
     "pantech/ef63k": "pantech/ef63",
     "pantech/ef63l": "pantech/ef63",
+    
+    "samsung/tblte": "samsung/tblte",
+    "samsung/tbltecan": "samsung/tblte",
+    "samsung/tbltedt": "samsung/tblte",
+    "samsung/tbltespr": "samsung/tblte",
+    "samsung/tbltetmo": "samsung/tblte",
+    "samsung/tblteusc": "samsung/tblte",
+    "samsung/tbltevzw": "samsung/tblte",
+    "samsung/tbltexx": "samsung/tblte",
 
     "samsung/trlte": "samsung/trlte",
     "samsung/trltecan": "samsung/trlte",
